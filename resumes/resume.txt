@@ -1,0 +1,5 @@
+Prajol Ghimire
+Email: prajol@example.com
+Phone: +977-9841234567
+
+Aspiring AI engineer skilled in Python, React, Node.js, MongoDB, Machine Learning, Git.
