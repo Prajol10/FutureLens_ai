@@ -2,7 +2,3 @@
 
 This is a personal AI/ML project to build a smart career copilot using ML, NLP, and LLMs. The goal is to learn while building a portfolio-grade AI project.
 
-## Progress
-- ✅ Day 1: Python Basics
-- ⏳ Day 2: NumPy, Pandas, and basic data handling
-...
